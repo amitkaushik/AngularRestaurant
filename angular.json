@@ -28,7 +28,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": []
           },
@@ -124,5 +125,8 @@
       }
     }
   },
-  "defaultProject": "resto"
+  "defaultProject": "resto",
+  "cli": {
+    "analytics": "d5566fdc-05c9-4635-b084-86245f41fdd0"
+  }
 }
