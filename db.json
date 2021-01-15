@@ -1,0 +1,30 @@
+{
+  "restaurants": [
+    {
+      "name": "Test1",
+      "email": "test1@test.com",
+      "address": "Noida",
+      "id": 1
+    },
+    {
+      "name": "Test2",
+      "email": "test2@test.com",
+      "address": "gurgaon",
+      "id": 2
+    },
+    {
+      "name": "HDD",
+      "email": "hdd@test.com",
+      "address": "Noida sector 2",
+      "id": 3
+    }
+  ],
+  "Users": [
+    {
+      "name": "peter",
+      "email": "peter@test.com",
+      "password": "123",
+      "id": 1
+    }
+  ]
+}
